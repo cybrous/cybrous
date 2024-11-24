@@ -1,6 +1,6 @@
 
-# 💫 ![Blue And Grey Modern Minimalist Digital Marketing Linkedin Article Cover Image](https://github.com/user-attachments/assets/c9e71a5a-4bac-48ef-a9b8-fb92b334b906)
-About Me:
+# ![Blue And Grey Modern Minimalist Digital Marketing Linkedin Article Cover Image](https://github.com/user-attachments/assets/c9e71a5a-4bac-48ef-a9b8-fb92b334b906)
+💫About Me:
 Hi 👋, I'm MD YUSUF<br><br>I'm a passionate Computer Science  Engineering Undergrad student from India, with a strong interest in the field of Computer Science.<br><br>🌱 I’m currently learning Java Full Stack Development,Andoid Development and Cloud Computing.<br><br>📫 You can reach me at: admin@cybrous.eu.org<br><br>📄 Check out my Linkedin to learn more about my experience.
 
 
